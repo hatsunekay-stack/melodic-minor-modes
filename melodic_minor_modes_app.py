@@ -113,5 +113,5 @@ if st.button("対応表を表示する", type="primary"):
 
 st.sidebar.markdown("### アプリについて詳しく知る")
 st.sidebar.markdown(
-    "[GitHub READMEを見る 📖](https://github.com/あなたのユーザー名/melodic-minor-modes/blob/main/README.md)"
+    "[GitHub READMEを見る 📖](https://github.com/hatsunekay-stack/melodic-minor-modes/blob/main/README.md)"
 )
