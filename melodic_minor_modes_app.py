@@ -110,3 +110,8 @@ if st.button("対応表を表示する", type="primary"):
 
                 st.markdown(f"**{d}番目の音から開始**：{mode_root} {mode_info['name']}")
                 st.code(f"({notes_str})", language=None)
+
+st.sidebar.markdown("### アプリについて詳しく知る")
+st.sidebar.markdown(
+    "[GitHub READMEを見る 📖](https://github.com/あなたのユーザー名/melodic-minor-modes/blob/main/README.md)"
+)
